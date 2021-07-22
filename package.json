@@ -19,6 +19,6 @@
     "mongoose": "^5.9.3",
     "nodemon": "^2.0.2",
     "require_optional": "^1.0.1",
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   }
 }
